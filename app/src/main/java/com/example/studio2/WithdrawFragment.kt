@@ -22,5 +22,4 @@ class WithdrawFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_withdraw, container, false)
     }
 
-
 }

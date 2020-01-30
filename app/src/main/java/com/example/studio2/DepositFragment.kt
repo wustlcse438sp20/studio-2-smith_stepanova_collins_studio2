@@ -21,5 +21,4 @@ class DepositFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_deposit, container, false)
     }
 
-
 }
